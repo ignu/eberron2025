@@ -1,0 +1,5 @@
+Besides being the seat of House Lyrandar's power and its matriarch, [Esravash d'Lyrandar](https://eberron.fandom.com/wiki/Esravash_d%27Lyrandar "Esravash d'Lyrandar"), the island is also a port, with extensive dry-dock facilities for Lyrandar ships
+
+![pasted image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffc%2Fcd%2Ff6%2Ffccdf639690158d5a475afc9ae61fdf2.jpg&f=1&nofb=1&ipt=6976c61743aae15f3f673f5e31196de599b04d8c5a836c44ea67995c7d24f7b2&ipo=images)
+
+Stormhome's status as a tropical paradise has caused it to generate a thriving tourism industry following the Last War. [House Ghallanda](https://eberron.fandom.com/wiki/House_Ghallanda "House Ghallanda") has constructed a number of resorts on the island, and a number of [Khorvaire's](https://eberron.fandom.com/wiki/Khorvaire "Khorvaire") wealthy take vacations on the island including [Queen Aurala ir'Wynarn](https://eberron.fandom.com/wiki/Aurala_ir%27Wynarn "Aurala ir'Wynarn") of Aundair
