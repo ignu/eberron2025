@@ -1,0 +1,3 @@
+![pasted image|300](https://i.imgur.com/l7gjNsp.png)
+
+A gruff, middle-aged half-elf who runs "The Hurricane Watch" a guild comprised of former sailors and airship crew members who now serve as both bodyguards and information gatherers. Thorne lost his left hand in the Last War and replaced it with an elemental-infused prosthetic that can channel his Mark of Storm abilities. Despite his rough exterior, he's deeply loyal to House Lyrandar's interests and has an unexpected passion for Karrnathi poetry. He's particularly obsessed with uncovering the secrets of the Mourning and how they might affect House Lyrandar's weather-controlling abilities.
