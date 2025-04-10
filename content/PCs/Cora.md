@@ -1,0 +1,2 @@
+- A kalashtar monk wearing flowing, earthly robes.
+- Also wearing an upside down triangle on her neck (the symbol of [[The Path of Light]])

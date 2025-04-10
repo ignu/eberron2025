@@ -19,6 +19,9 @@ I do use [The Rule of Cool](https://www.youtube.com/watch?v=fWZDuFIYkf0) if the 
 
 There are some caveats to the rules  I'd like to stress below
 
+### Banned Spells/Features
+
+- Silvery Barbs
 ### Flanking 
 
 **Flanking is a +2 bonus to hit.**
