@@ -1,5 +1,7 @@
+![pasted image](https://static.wikia.nocookie.net/eberron/images/2/2b/D%26D_-_4th_Edition_-_Eberron_Map_Sharn.jpg/revision/latest/scale-to-width-down/1000?cb=20090819130113)
 ## Upper City
 
+![pasted image](https://preview.redd.it/mi6owsqls8h81.png?width=640&crop=smart&auto=webp&s=77e4c20a6ab971b0661be5c5675aee953f2d43ee)
 ### Upper Central Plateau
 
 The wealthy heart of Sharn, home to government buildings, wealthy merchants, and noble estates. The architecture is grand and imposing, with magical lighting illuminating the streets at all hours.
@@ -23,6 +25,8 @@ Upper Dura houses less affluent nobles and successful merchants who can't afford
 
 Clifftop is the adventurer's quarter of Upper Dura, where gray granite towers house a colorful mix of fortune-seekers from across Khorvaire. Home to the respected Clifftop Adventurers' Guild (founded by the dwarf Shekkal Korraner), the district features essential services including the Dragon's Hoard for magical items, House Sivis for translation services, and a small but well-staffed House Jorasco healing enclave where adventurers can purchase healing services at premium rates that reflect the district's understanding that those who risk their lives professionally are willing to pay handsomely to continue doing so.
 ## Middle City
+
+![pasted image](https://preview.redd.it/2866i0gks8h81.png?width=640&crop=smart&auto=webp&s=1ed57a7f5fedcb73a79a9780112c57512cc0e957)
 
 ### Middle Central Plateau
 
@@ -56,6 +60,8 @@ Tucked away in thedepths of Middle Dura, the Half-Pint Tavern is deliberately un
 The largest marketplace in Sharn, a maze of shops, stalls, and vendors selling goods from across Khorvaire and beyond. Known for its colorful atmosphere and opportunities for both legitimate shopping and less-than-legal acquisitions.
 
 ## Lower City
+
+![pasted image](https://preview.redd.it/b2nw5g5hs8h81.png?width=640&crop=smart&auto=webp&s=a95c6f28ed741ca731f1c0acc3a6331cb4c084ea)
 
 ### Lower Central Plateau
 
