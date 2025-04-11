@@ -1,4 +1,6 @@
-![pasted image](https://static.wikia.nocookie.net/eberron/images/2/2b/D%26D_-_4th_Edition_-_Eberron_Map_Sharn.jpg/revision/latest/scale-to-width-down/1000?cb=20090819130113)
+![pasted image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fklubbsaga2015.wdfiles.com%2Flocal--files%2Fsharn%2FSharn%252001a.jpg&f=1&nofb=1&ipt=b9e77fa5a40f797738f8bcbf77579ba8d728bf17e51ab282bb108b6ad8d42057)
+
+![[Pasted image 20250411091202.png]]
 ## Upper City
 
 ![pasted image](https://preview.redd.it/mi6owsqls8h81.png?width=640&crop=smart&auto=webp&s=77e4c20a6ab971b0661be5c5675aee953f2d43ee)
