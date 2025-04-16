@@ -26,7 +26,7 @@ Lyran's Gift is the arcane research arm of the house. The Gift helps Lyrandar sp
 
 ## The Storm Front
 
-The Storm Front is rumored to be a cult operating within House Lyrandar whose members believe that the Mark of Storm is not a gift of Arawai and Kol Korran but the mark of the Devourer. Cult members maintain that the greatest members of the house live on as krakens in the deep, and that these immortal elders guide the Storm Front through visions. 
+The Storm Front is rumored to be a cult operating within House Lyrandar. 
 
 ### Secrets and Conflicts
 - **Sovereignty**: The underlying ambition for political power or even nationhood is a driving force, potentially putting them at odds with the established nations and the Treaty of Thronehold.
