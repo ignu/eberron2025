@@ -21,3 +21,5 @@ In the alley behind the bar, The Party meets an unhoused man named Bort. They of
 The Party takes a short rest to eat pizza and heal up. They continue toward the area where they believe the show will be held, with Cas's [[House Phiarlen]] knowledge guiding them. They enter a Changeling bar The Cracked Mirror where Cas disguises herself as one of the locals to show them the mask they found. The Changelings inform The Party that the mask-wearers are performing at The Silvermist Theater.
 
 As [[Cas]] is leaving, a small goblin girl runs past her, snatches the mask, and flees.
+
+![pasted image](https://i.imgur.com/7qRPjr0.png)
