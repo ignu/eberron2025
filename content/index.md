@@ -5,7 +5,7 @@ hide: ["graph"]
 
 This is the wiki for our Eberron Campaign.
 
-## 🚀 [[Session Log]]
+## 🚀 [[Session 1 - April 9, 2025]]
 
 ![pasted image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.nerdsonearth.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fcombat_eberron.jpg&f=1&nofb=1&ipt=1e983a9de60099f041874dbcb57a366657b43a82f3751eda1f1689b6e528f803&ipo=images)
 

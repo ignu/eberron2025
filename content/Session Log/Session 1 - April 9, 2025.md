@@ -1,4 +1,13 @@
-## Session 1 - April 9, 2025
+---
+title: "Session 1 - The Search for Drevan d'Lyrandar"
+description: "The party begins their investigation into Drevan d'Lyrandar's disappearance, finding evidence of a struggle at The Half Pint tavern and tracking a mysterious masked group through Sharn. Their search leads them to The Silvermist Theater, but a goblin girl steals their only clue."
+image: "https://i.imgur.com/7qRPjr0.png"
+date: "April 9, 2025"
+tags:
+  - session
+  - sharn
+  - lyrandar
+---
 
 The Party meet at **The Drowned Sorrows** to wait for [[Torsten d'Lyrandar]] (who arrives 20 minutes late much to [[Iansa d'Lyrandar| Iansa's]] irritation). Torsten advises Iansa may want keep their tasks quiet due to Drevan's involvement with Amanat.
 
