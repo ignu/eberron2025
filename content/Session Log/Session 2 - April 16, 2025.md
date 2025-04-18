@@ -8,14 +8,28 @@ tags:
   - sharn
 ---
 
-[[Cas]] casts command on the goblin girl running with the mask and forces her to stop.
+[[Cas]] casts command on [[Session 1 - April 9, 2025 |the goblin girl running with the mask]] and forces her to stop.
 
-Her name is [[Rhazala]] even if no one in the party remembers. She's seven which is late teens in goblin years.
+Her name is [[Rhazala]]. She's seven which is late teens in goblin years.
 
 ![pasted image](https://i.imgur.com/4JfAdEH.png)
 
-After [[Taarkhan]] grapples her, the party interrogates her (mostly about her name) and she explains she was being paid by a "bad smelling man" to keep a look out for people asking about the mask.
+After [[Taarkhan]] grapples her, the party interrogates her (mostly asking her name repeatedly) and she explains she is being paid by a "bad smelling man" to look out for people asking about the mask.
 
-The letter confirms [[Cas]]'s suspicions about Drevan's troubled marriage, revealing his wife had commissioned his assassination. The Party discovers she likely withdrew funds from their shared vault to finance the plot, intending to inherit his estate upon his death. [[Pallas]] offers Drevan legal counsel on protecting his remaining assets from his wife's claims. [[Barbara]], drawing parallels to her own marital difficulties, suggests there might be understandable motivations behind his wife's extreme actions.
+[[Taarkhan]] offers her alternative employment looking out for a few issues worrying him, while [[Pallas]] intimidates her with a crossbow and [[Cas]] tries to get her to reveal PII which makes [[Rhazala]] worry about identity theft.
 
-With Drevan now safely recovered but badly injured, The Party seeks a secure location to rest and recuperate. [[Coravash]] apologizes to [[Pallas]] for making offensive bird-like sounds earlier. As they make their way toward the Lyrandar enclave with a disguised Drevan, he shares critical information with [[Pallas]] and [[Iansa d'Lyrandar|Iansa]]: he had uncovered a remarkable artifact—a golden book inscribed with an untranslatable script that had confounded scholars. He reveals that his wife has emptied their vault, taking not only the mysterious book and their gold, but also all of his valuable shares in Amanat Materials.
+She agrees to the terms, and reveals the smelly cultist is at The Silvermist Theater.
+
+The party go to the theater with [[Cas]] entering disguised as [[Rhazala]]. The party discuss code words Cas can say, with [[Coravash]] offending [[Pallas]] with some bird calls.
+
+Once inside [[Cas]]/[[Rhazala]] see a cultist start a ritual over the unconscious[[Drevan d'Lyrandar | Drevan]], she screams the code word and the party barges in slaying the cultists in a brutal battle.
+
+![pasted image](https://i.imgur.com/t51UZlM.png)
+
+When the main one, a warforged named Echo, dies, a silver metal ball erupts from his chest and quickly flies out the door. The words **“The Shaper of Nightmares will ensure my return and I will have my vengeance in your pain!”** boom in the theater in his voice.
+
+[[Barbara]] apologizes to all the dead bodies and it's revealed she has no problems with warforged.
+
+When Drevan is healed, he explains that he heard the cultists discussing that his wife, Nora, paid to have him murdered. (They also found a note showing a payment of 1000gp).
+
+After some legal advice from [[Pallas]], [[Drevan d'Lyrandar|Drevan]] Sendings his banker and learns that Nora was already at his vault, taking out an artifact (a gold book with indecipherable script), all his gold and their shares in [[Aminat Materials]]

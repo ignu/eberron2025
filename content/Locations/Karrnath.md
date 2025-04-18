@@ -1,0 +1,3 @@
+Karrnath is a militaristic nation in northeastern Khorvaire ruled by King Kaius III, known for its disciplined armies and use of undead soldiers during the Last War. Its harsh climate and martial culture have produced some of Eberron's finest warriors, with military service being mandatory for all citizens and contains the prestigious Rekkenmark Academy, which trains officers from across Khorvaire.
+
+![pasted image](https://i.imgur.com/uTuWjZV.png)
