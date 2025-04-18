@@ -1,1 +1,1 @@
-A member of [[House Phiarlen]], Cas likes to constantly shift her tattoos and change the color of her eyes and.
+A member of [[House Phiarlen]], Cas likes to constantly shift her tattoos and change the color of her eyes and items she's carrying.

@@ -1,8 +1,8 @@
 ---
-title: "Session 2 - The Rescue of Drevan d'Lyrandar"
-description: "The party infiltrates the Silvermist Theater, defeats a group of cultists performing a ritual, and rescues Drevan d'Lyrandar. They discover his wife commissioned the assassination and stole valuable assets including a mysterious golden book."
-image: "https://i.imgur.com/4JfAdEH.png"
-date: "April 16, 2025"
+title: Session 2 - The Rescue of Drevan d'Lyrandar
+description: The party infiltrates the Silvermist Theater, defeats a group of cultists performing a ritual, and rescues Drevan. They discover his wife commissioned the assassination and looted everything in their vault including a mysterious golden book and their shares in Aminat Materials.
+image: https://i.imgur.com/4JfAdEH.png
+date: April 16, 2025
 tags:
   - session
   - sharn
@@ -16,9 +16,9 @@ Her name is [[Rhazala]]. She's seven which is late teens in goblin years.
 
 After [[Taarkhan]] grapples her, the party interrogates her (mostly asking her name repeatedly) and she explains she is being paid by a "bad smelling man" to look out for people asking about the mask.
 
-[[Taarkhan]] offers her alternative employment looking out for a few issues worrying him, while [[Pallas]] intimidates her with a crossbow and [[Cas]] tries to get her to reveal PII which makes [[Rhazala]] worry about identity theft.
+[[Taarkhan]] offers alternative employment looking out for a few issues worrying him, while [[Pallas]] intimidates her with a crossbow and [[Cas]] tries to get her to reveal PII which makes [[Rhazala]] worry about identity theft.
 
-She agrees to the terms, and reveals the smelly cultist is at The Silvermist Theater.
+She agrees to [[Taarkhan|Taarkhan's]] terms, and reveals the smelly cultist is at The Silvermist Theater.
 
 The party go to the theater with [[Cas]] entering disguised as [[Rhazala]]. The party discuss code words Cas can say, with [[Coravash]] offending [[Pallas]] with some bird calls.
 
@@ -26,10 +26,12 @@ Once inside [[Cas]]/[[Rhazala]] see a cultist start a ritual over the unconsciou
 
 ![pasted image](https://i.imgur.com/t51UZlM.png)
 
-When the main one, a warforged named Echo, dies, a silver metal ball erupts from his chest and quickly flies out the door. The words **“The Shaper of Nightmares will ensure my return and I will have my vengeance in your pain!”** boom in the theater in his voice.
+When the leader, a warforged named Echo, falls a silver metal sphere erupts from his chest and streaks toward the door. His voice booms throughout the theater: **"THE SHAPER OF NIGHTMARES WILL ENSURE MY RETURN AND I WILL HAVE MY VENGEANCE IN YOUR PAIN!"**
 
-[[Barbara]] apologizes to all the dead bodies and it's revealed she has no problems with warforged.
+[[Barbara]] apologizes to all the dead bodies, revealing her unexpected lack of prejudice against warforged.
 
-When Drevan is healed, he explains that he heard the cultists discussing that his wife, Nora, paid to have him murdered. (They also found a note showing a payment of 1000gp).
+When Drevan is healed, he explains that he heard the cultists discussing that his wife, Nora, paid to have him murdered. A recovered note confirms a thousand galifar contract.
 
-After some legal advice from [[Pallas]], [[Drevan d'Lyrandar|Drevan]] Sendings his banker and learns that Nora was already at his vault, taking out an artifact (a gold book with indecipherable script), all his gold and their shares in [[Aminat Materials]]
+[[Coravash]] apologies to [[Pallas]] for her racist, anti-Kenku bird calls.
+
+After some legal advice from [[Pallas]], [[Drevan d'Lyrandar|Drevan's]] frantic Sending to his banker unveils further betrayal: Nora has already emptied their vault of a mysterious golden book covered in indecipherable script, all their gold, and their shares in [[Aminat Materials]]
