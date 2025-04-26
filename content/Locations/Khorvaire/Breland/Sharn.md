@@ -1,6 +1,8 @@
 ![pasted image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fklubbsaga2015.wdfiles.com%2Flocal--files%2Fsharn%2FSharn%252001a.jpg&f=1&nofb=1&ipt=b9e77fa5a40f797738f8bcbf77579ba8d728bf17e51ab282bb108b6ad8d42057)
 
 ![[Pasted image 20250411091202.png]]
+
+---
 ## Upper City
 
 ![pasted image](https://preview.redd.it/mi6owsqls8h81.png?width=640&crop=smart&auto=webp&s=77e4c20a6ab971b0661be5c5675aee953f2d43ee)
@@ -26,6 +28,8 @@ Upper Dura houses less affluent nobles and successful merchants who can't afford
 #### Clifftop
 
 Clifftop is the adventurer's quarter of Upper Dura, where gray granite towers house a colorful mix of fortune-seekers from across Khorvaire. Home to the respected Clifftop Adventurers' Guild (founded by the dwarf Shekkal Korraner), the district features essential services including the Dragon's Hoard for magical items, House Sivis for translation services, and a small but well-staffed House Jorasco healing enclave where adventurers can purchase healing services at premium rates that reflect the district's understanding that those who risk their lives professionally are willing to pay handsomely to continue doing so.
+
+---
 ## Middle City
 
 ![pasted image](https://preview.redd.it/2866i0gks8h81.png?width=640&crop=smart&auto=webp&s=1ed57a7f5fedcb73a79a9780112c57512cc0e957)
@@ -56,11 +60,12 @@ Tumbledown is the most decrepit district in Middle Dura, where ramshackle teneme
 
 ##### Half Pint Tavern
 
-Tucked away in thedepths of Middle Dura, the Half-Pint Tavern is deliberately unremarkable. Its exterior is scarred, the painted sign bearing its name long faded, giving it an air of weary anonymity. It caters to the local laborers and residents, offering basic fare and drink without fanfare. Its Karrnathi owner, Kyvle Trothut, is known to be pragmatic; for the right price, he'll even leave the keys for patrons desiring absolute privacy, returning only in the morning.
+Tucked away in the depths of Middle Dura, the Half-Pint Tavern is deliberately unremarkable. Its exterior is scarred, the painted sign bearing its name long faded, giving it an air of weary anonymity. It caters to the local laborers and residents, offering basic fare and drink without fanfare. Its Karrnathi owner, Kyvle Trothut, is known to be pragmatic; for the right price, he'll even leave the keys for patrons desiring absolute privacy, returning only in the morning.
 #### Bazaar
 
 The largest marketplace in Sharn, a maze of shops, stalls, and vendors selling goods from across Khorvaire and beyond. Known for its colorful atmosphere and opportunities for both legitimate shopping and less-than-legal acquisitions.
 
+---
 ## Lower City
 
 ![pasted image](https://preview.redd.it/b2nw5g5hs8h81.png?width=640&crop=smart&auto=webp&s=a95c6f28ed741ca731f1c0acc3a6331cb4c084ea)

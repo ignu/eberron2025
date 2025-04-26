@@ -1,0 +1,1 @@
+Xen'drik is the shattered, jungle continent once ruled by colossal Giants, cursed by dragons after the ancient Giant-Quori war devastated the land. Now explorers brave its vast ruins filled with potent artifacts, wild magic zones, primal giants, and secretive drow, defying the disorienting Traveler's Curse.
