@@ -1,4 +1,6 @@
-Months:
+**Days of the week:** Sul, Mol, Zol, Wir, Zor, Far, Sar
+
+**Months:**
 1. Zarantyr (Mark of Storm)
 2. Olarune (Mark of Sentinel)
 3. Therendore (Mark of Healing)
@@ -12,11 +14,9 @@ Months:
 11. Aryth (Mark of Passage)
 12. Vult (Mark of Warding)
 
-Days of the week: Sul, Mol, Zol, Wir, Zor, Far, Sar
-
-Notable dates:
-1 YK: founding of the Kingdom of Galifar
-894 YK: start of the Last War
-994 YK (20 Olarune): Day of Mourning
-996 YK (11 Aryth): Treaty of Thronehold
-998 YK: present day
+**Notable dates:**
+- 1 YK: founding of the Kingdom of Galifar
+- 894 YK: start of the Last War
+- 994 YK (20 Olarune): Day of Mourning
+- 996 YK (11 Aryth): Treaty of Thronehold
+- **998 YK: present day**
