@@ -9,7 +9,7 @@ tags:
   - lyrandar
 ---
 
-The Party meet at **The Drowned Sorrows** to wait for [[Torsten d'Lyrandar]] (who arrives 20 minutes late much to [[Iansa d'Lyrandar| Iansa's]] irritation). Torsten advises Iansa may want keep their tasks quiet due to Drevan's involvement with Amanat.
+The Party meet at **The Drowned Sorrows** to wait for [[Torsten d'Lyrandar]] (who arrives 20 minutes late much to [[Iansa d'Lyrandar| Iansa's]] irritation). Torsten advises Iansa may want keep their tasks quiet due to Drevan's involvement with Aminat Materials.
 
 <img src="https://i.imgur.com/l7gjNsp.png" class="image-right"/>Torsten explains the mission: [[Drevan d'Lyrandar]], who is in charge of field research for new sources of materials, has gone missing. Despite doing a good job in his position, Drevan has a drinking problem that Iansa has [[Pallas]] note for his performance review. Drevan's wife Nora approached Torsten, fearing her husband has been kidnapped or killed. Believing the Sharn Watch to be corrupt and ineffective, Torsten has Lyrandar Acquisitions investigate.
 
