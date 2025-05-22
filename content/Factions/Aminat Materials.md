@@ -1,1 +1,1 @@
-A business under [[House Lyrandar]] dealing in rare and magical materials.
+A business under [[House Lyrandar]] dealing in rare and magical materials, Aminat Materials (a subsidiary of Lyrandar Acquisitions) was previously run by Iapetus and Kinsa d'Lyrandar. After their passing, their daughter Iansa was designated as their successor. However, her succession is currently being impeded by The Shareholders. Employees of Aminat Materials include Pallas Rove'neerm and Drevan d'Lyrandar.
