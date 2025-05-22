@@ -1,1 +1,1 @@
-Changeling storekeeper at Honest Faces in Middle Dura
+Changeling storekeeper of the Honest Faces cosmetic store in Middle Dura
