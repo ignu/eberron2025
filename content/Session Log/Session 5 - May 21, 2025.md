@@ -2,7 +2,7 @@
 date: May 21, 2025
 image: https://i.imgur.com/C8Ki2EM.png
 title: Session 5 - Nightmare Auction
-description: At the illegal auction, the party is mid-strategy when black-robed cultists storm in, blades flashing, cutting down patrons at random. Pallas lunges for the book but in the frenzy, he smashes a dragonshard mirror, unleashing a nightmare creature into the existing chaos. And just as things didn't seem to be able to get any worse, Jolgar warns "The Watch is coming!"
+description: At the auction, the party is mid-strategy when cultists storm in, blades flashing, cutting down patrons at random. Pallas lunges for the book but in the frenzy he smashes the mirror, unleashing a nightmare creature into the chaos. And just when it couldn’t get worse, Jolgar warns, 'The Watch is coming!'
 ---
 Inside the Mad Warlock's Tower, [[Coravash]] continues to feel unsettled by the mirror studded with dragon shards. 
 
