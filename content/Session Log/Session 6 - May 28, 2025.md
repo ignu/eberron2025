@@ -12,7 +12,7 @@ During the chaos, one cultist seems to telepathically communicate with the [[Tsu
 
 In the chaos [[Cas]] steals the tentacled canary, managing to calm it as they flee back to [[Iansa d'Lyrandar|Iansa's]].
 
-![pasted image](https://i.imgur.com/TCkksV3.png)
+![pasted image](https://i.imgur.com/750VsHm.png)
 ## Domestic Arrangements
 
 Back at Iansa's four-bedroom single-family home (noted for its nice amenities but poor walkability), the party settles in. 
