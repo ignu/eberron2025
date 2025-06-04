@@ -1,0 +1,1 @@
+Master manipulators, tsucora quori excel at playing on the fears and doubts of mortals. They could possess the bodies of [humanoids](https://eberron.fandom.com/wiki/Humanoid "Humanoid"), taking control of a host body while keeping their victim aware yet powerless to act.
