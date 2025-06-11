@@ -1,6 +1,6 @@
 ---
 title: Session 7 - The Iron King, Fireworks, Cultists and Dreamers
-description: The party decides to keep their mysterious tentacled canary, Cas arranges a date, encounters a massive damaged Warforged in the Cogs who's holding sick children, and infiltrates the Fellows' creation forge.
+description: The party decides to keep their mysterious tentacled canary, encounters a massive damaged Warforged in the Cogs who's holding sick children, and infiltrates the Fellows' creation forge.
 date: June 4, 2025
 image: https://i.imgur.com/MpzpUwu.png
 ---
