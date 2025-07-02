@@ -2,7 +2,7 @@
 title: Session 9 - The Dragon's Mask
 description: The party executes a daring heist to steal an ancient dragon mask from Councilor Haas's apartment.
 date: June 24, 2025
-image: https://i.imgur.com/1okHBDz.jpeg
+image: https://imgur.com/uZlrBqS
 ---
 ## Lady Valarathorn's Dilemma
 
