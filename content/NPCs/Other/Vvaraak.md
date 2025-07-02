@@ -1,0 +1,1 @@
+**Vvaraak** was an ancient black dragon who taught druidic magic to the orcs of Khorvaire over 16,000 years ago, founding the Gatekeeper tradition. The dragons of Argonnessen considered her a rogue for sharing sacred knowledge with "unworthy" races, and her ultimate fate remains unknown.
