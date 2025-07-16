@@ -40,3 +40,5 @@ They find Haas' window warded, but [[Iansa]] just _Misty Steps_ inside. She retr
 Despite [[Pallas]]'s preference to wait for spell slot recovery, [[Iansa d'Lyrandar|Iansa]] immediately dons the ancient dragon mask.
 
 **Her vision**: She experiences the perspective of [[Vvaraak]], a massive black dragon observing orcs engaged in conflict with aberrations. The ancient dragon's thoughts resonate with urgency: _"Someone has to do something."_
+
+

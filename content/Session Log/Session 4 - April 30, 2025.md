@@ -13,6 +13,8 @@ They head to Stonebridge Orphanage where [[Granny Labeth]] accepts the package, 
 
 They return to Spyder with the receipts and learn the auction is tonight, right down the street at The Mad Warlock's tower. It's invite only, and they don't have an invite. They learn about some of the guests, one being a boisterous dwarf named Thaddeus who likes to drink at The Happy Minotaur.
 
+![pasted image](https://i.imgur.com/mpOfuJy.png)
+
 At the tavern, they find about 20 patrons but no sign of Thaddeus. They discover a back hallway called "The Labyrinth" and learn from the bartender that it contains private booths for various activities. They enter , with [[Barbara]] sneaking and peering into the various booths. Barbara drunkenly stumbles upon two identical, attractive half-elves engaged in intimate activity. Barbara, quite intoxicated, tells Cas about the men, and Cas takes mental notes.
 
 Meanwhile, [[Iansa]] and Pallas approach the dwarf's booth, offering a round of free drinks to celebrate their "successful business deal." Thaddeus's group seems wary but accepts the drinks. When asked about their evening plans, [[Thaddeus]] mentions the exclusive auction, showing off a fancy ancient ring from a previous purchase. Iansa and Pallas attempt to flatter their way into getting an invitation. Thaddeus invites Iansa to join him and provides her with an invite. Pallas awkwardly leaves Iansa alone with Thaddeus, creating an unexpected date-like situation while he returns to update the rest of the party.
